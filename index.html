@@ -23,6 +23,17 @@
 html { scroll-behavior:smooth; }
   <div id="loader">Loading Love... 💜</div>
 body { background:var(--deep); color:var(--text); font-family:'Crimson Pro',serif; overflow-x:hidden; cursor:none; }
+  #loader{
+  position:fixed;
+  inset:0;
+  background:#000;
+  color:#fff;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  z-index:99999;
+  font-size:18px;
+}
 
 /* ===== CUSTOM CURSOR ===== */
 #cur { position:fixed; width:14px; height:14px; border-radius:50%; background:radial-gradient(circle,#ff6b9d,#c0395a); pointer-events:none; z-index:9999; transform:translate(-50%,-50%); mix-blend-mode:screen; transition:width .2s,height .2s; box-shadow:0 0 10px #ff6b9d; }
