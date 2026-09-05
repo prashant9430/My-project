@@ -1,17 +1,41 @@
 # 💜 My Project
 
-A simple personal web project created using HTML, CSS, and JavaScript.
+A private and personal web experience created using HTML, CSS, and JavaScript.
 
 ---
 
-✨ Overview
+## ✨ Overview
 
-This project is a private and personal web creation.
-It focuses on design, animation, and interactive UI elements.
+This is a private personal project focused on memories,
+emotions, design, animation, music, and interactive UI.
+
+The project contains **Chapter I** and the upcoming
+**Chapter II** experience.
 
 ---
 
-⚙️ Tech Stack
+## 🌹 Chapters
+
+### 💜 Chapter I
+The original personal web experience.
+
+### ✨ Chapter II
+A new cinematic continuation featuring:
+
+- 👀 Mood-based experiences
+- 🎉 Happy moments
+- 💗 Mohabbat moments
+- ❤️‍🩹 Emotional moments
+- 🍂 Memories
+- 🎵 Separate music for each mood
+- 💌 Interactive letters
+- 🖼️ Memory gallery
+- 💫 Cinematic animations
+- 💍 Special moments
+
+---
+
+## ⚙️ Tech Stack
 
 - HTML5
 - CSS3
@@ -19,36 +43,43 @@ It focuses on design, animation, and interactive UI elements.
 
 ---
 
-📂 Structure
+## 📂 Structure
 
 project/
 │
 ├── index.html
 ├── assets/
+│
+├── v2/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   ├── music/
+│   └── images/
+│
 └── README.md
 
 ---
 
-🚀 Usage
+## 🔒 Privacy
 
-1. Clone the repository
-2. Open "index.html" in your browser
+This repository is **private and intended for personal use only**.
 
----
+The content, photographs, memories, music, and design are personal
+and are not intended for redistribution, copying, or public use.
 
-⚠️ Note
-
-This is a personal project.
-Content, media, and design are intentionally kept private.
+**Unauthorized copying, reproduction, or redistribution is not permitted.**
 
 ---
 
-👤 Author
+## 👤 Author
 
 Prashant Kumar Pandey
 
 ---
 
-🔒 Status
+## 💜 Status
 
 Private / Personal Use Only
+
+**Chapter II — In Development ✨**
